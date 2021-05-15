@@ -1,0 +1,1 @@
+{"device_details": {"location": "592551", "description": "2nd floor Sylvania bulb", "device_type": "10036", "device_id": "f0f45f03006f0d00"}, "data": [{"currentLevel": "101", "timestamp_iso": "2021-03-17T00:00:00Z", "timestamp_ms": "1615939200000", "state": "1", "lqi": "156", "rssi": "-65", "model": "iqbr30", "manufacturer": "osram sylvania", "deviceVersion": "00.50.00"}]}
